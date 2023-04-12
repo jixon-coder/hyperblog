@@ -31,3 +31,10 @@ height: 40px;
 margin: 40px;
 padding: 40px;
 }
+
+.text2{
+    font-size: 2rem;
+    padding: 40px;
+    margin: 0 auto;
+    width: 900px;
+}
