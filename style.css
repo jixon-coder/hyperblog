@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cabecera
 *{
     font-size: 65.2%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
+<<<<<<< HEAD
 body{
     background-color: rgb(130, 155, 155);
 }
@@ -43,12 +47,51 @@ padding: 40px;
 =======
 >>>>>>> cabecera
 =======
+=======
+>>>>>>> cabecera
 body{
-    background-color: chocolate;
+    background-color: rgb(4, 18, 18);
+    
+}
+.lorem{
+    font-size: 5.2rem;
+    color: white;
+
 }
 
-.footer{
-    font-size: 20px;
+.style{
+    width: 80%;
+    margin: 0, auto;
+    border: 10px solid black;
+    padding: 40px;
+    
+    
+}
+.titulo{
+    font-size: 2rem;
+    background-color: black;
     color: yellow;
+<<<<<<< HEAD
+}
+>>>>>>> cabecera
+=======
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 80%;
+    padding: 40px;
+    height: 50px;
+}
+.text{
+font-size: 2.5rem;
+height: 40px;
+margin: 40px;
+padding: 40px;
+}
+
+.text2{
+    font-size: 2rem;
+    padding: 40px;
+    margin: 0 auto;
+    width: 900px;
 }
 >>>>>>> cabecera
