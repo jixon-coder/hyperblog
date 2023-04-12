@@ -4,8 +4,13 @@
     }
 
 body{
-    background-color: rgb(130, 155, 155);
+    background-color: rgb(4, 18, 18);
     
+}
+.lorem{
+    font-size: 5.2rem;
+    color: white;
+
 }
 
 .style{
